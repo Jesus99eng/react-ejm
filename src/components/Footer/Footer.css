@@ -1,0 +1,22 @@
+footer {
+  margin-top: 30px;
+  width: 100%;
+  display: grid;
+  text-align: center;
+  padding: 3px;
+  background-color: blue;
+  font-family: "Edu AU VIC WA NT Guides", cursive;
+  font-style: normal;
+  color: white;
+  cursor: pointer;
+}
+
+footer:hover {
+  background-color: #722ae9;
+}
+
+footer a {
+  font-family: "Edu AU VIC WA NT Guides", cursive;
+  font-style: normal;
+  color: white;
+}

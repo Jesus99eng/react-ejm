@@ -1,0 +1,24 @@
+.container-search {
+    display: grid;
+    padding: 20px;
+    grid-template-columns: 1fr;
+    background: #31335A;
+    color: #ffffff;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(217, 217, 217, 1);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(217, 217, 217, 1);
+    box-shadow: 10px 10px 5px 0px rgba(217, 217, 217, 1);
+}
+.container-search input{
+    color: #31335A;
+}
+.container-search p {
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
+.search-characters {
+    font-size: 20px;
+    padding: 10px;
+    background: rgb(235, 235, 235);
+    border: 0;
+}
